@@ -1,2 +1,2 @@
 # melody
-Training project
+Training project.

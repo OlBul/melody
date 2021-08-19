@@ -71,6 +71,10 @@ body {
     cursor: pointer;
 }
 
+path.current-floor{
+    opacity: 1;
+}
+
 .main-info {
     flex-grow: 1;
     text-align: center;
@@ -88,6 +92,7 @@ body {
 
 .counter-button{
     background-color: #fff;
+    cursor: pointer;
 }
 
 .counter{
@@ -96,7 +101,7 @@ body {
     color: #635854;
     margin: 10px 0;
     font-weight: 400;
-    cursor: pointer;
+    
 }
 
 .main-title{
